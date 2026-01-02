@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @pritibit
 - 👀 I’m interested in Reading, cooking, surfing and travelling.
-- 🌱 I’m currently learning many things which can give a good exposure in Data analyst field.
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me pritibitpatna@gmail.com 
 
 <!---
