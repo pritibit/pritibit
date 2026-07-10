@@ -1,0 +1,14 @@
+kotlin-logging: initializing... active logger factory: Slf4jLoggerFactory
+MCP Server: Started. Waiting for messages. Working directory: /workspace
+
+=== list_devices ===
+[TextContent(type='text', text='{"devices":[{"device_id":"chromium","name":"Chromium Web Browser","platform":"web","type":"browser","connected":false}]}', annotations=None, meta=None)]
+
+=== inspect_screen ===
+[TextContent(type='text', text="Failed to inspect screen: Could not start a new session. Response code 500. Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause. \nHost info: host: 'cursor', ip: '127.0.0.1'\nBuild info: version: '4.43.0', revision: 'dd0f534'\nSystem info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.12.94+', java.version: '21.0.10'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --disable-search-engine-cho..., --lang=en, --password-store=basic], binary: /usr/bin/google-chrome, detach: true, extensions: [], prefs: {credentials_enable_service: false, profile.password_manager_enabled: false, profile.password_manager_leak_detection: false}}}]}]", annotations=None, meta=None)]
+
+=== run ===
+[TextContent(type='text', text="Failed to run flow: Could not start a new session. Response code 500. Message: session not created\nfrom disconnected: unable to connect to renderer \nHost info: host: 'cursor', ip: '127.0.0.1'\nBuild info: version: '4.43.0', revision: 'dd0f534'\nSystem info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.12.94+', java.version: '21.0.10'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, --disable-search-engine-cho..., --lang=en, --password-store=basic], binary: /usr/bin/google-chrome, detach: true, extensions: [], prefs: {credentials_enable_service: false, profile.password_manager_enabled: false, profile.password_manager_leak_detection: false}}}]}]", annotations=None, meta=None)]
+
+=== open_maestro_viewer ===
+[TextContent(type='text', text='Maestro Viewer is not running. Restart the MCP server without --no-viewer to enable it.', annotations=None, meta=None)]
