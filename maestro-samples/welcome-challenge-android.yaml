@@ -1,0 +1,9 @@
+appId: org.wikipedia
+tags:
+  - welcome
+  - android
+---
+- launchApp:
+    clearState: true
+- runFlow: subflows/onboarding-android.yaml
+- assertVisible: Search Wikipedia
