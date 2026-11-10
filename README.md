@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @pritibit
-- 👀 I’m interested in Reading, cooking, surfing and travelling.
 - 📫 Reach me pritibitpatna@gmail.com 
 
 <!---
